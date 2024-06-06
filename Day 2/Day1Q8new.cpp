@@ -5,7 +5,7 @@ main(){
 	float s;
 	
 	printf("Enter the value of side to get area of a square\n");
-	scanf("%f",s);
+	scanf("%f",&s);
 	
 	float area= s*s;
 	
